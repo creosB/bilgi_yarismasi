@@ -24,4 +24,4 @@ Oyundaki amacımız ekrana gelen soruları en kısa sürede doğru cevaplamak.</
 <p class="has-line-data" data-line-start="20" data-line-end="22">License<br>
 Herhangi bir yerde paylaşmak, değişiklik yapmak için öncelikle bana ulaşınız.</p>
 <hr>
-<h2 class="code-line" data-line-start=23 data-line-end=25 ><a id="MIT_23"></a>MIT</h2>
+<h2 class="code-line" data-line-start=23 data-line-end=25 ><a id="MIT_23"></a>Creative Commons Zero v1.0 Universal</h2>
