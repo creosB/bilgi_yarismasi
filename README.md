@@ -1,5 +1,5 @@
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="Bilgi_Yarmas_Simple_Unity_Quiz_Game_0"></a>Bilgi Yarışması (Simple Unity Quiz Game)</h1>
-<h2 class="code-line" data-line-start=2 data-line-end=4 ><a id="NSolidhttpsplaylhgoogleusercontentcom4ChxU_bzuJe8ix7IC7fYOq5xH3rtDjDMFogy4NsF6l8jNH9Q_G7zQUWoZtWvkliyww2247h1264rwhttpwwwartistscompanydigital_2"></a><a href="http://www.artistscompany.tech"><img src="https://raw.githubusercontent.com/creosB/presentation/main/background.png" alt="N|Solid"></a></h2>
+<h2 class="code-line" data-line-start=2 data-line-end=4 ><a id="NSolidhttpsplaylhgoogleusercontentcom4ChxU_bzuJe8ix7IC7fYOq5xH3rtDjDMFogy4NsF6l8jNH9Q_G7zQUWoZtWvkliyww2247h1264rwhttpwwwartistscompanydigital_2"></a><a href="http://www.artistscompany.net"><img src="https://raw.githubusercontent.com/creosB/presentation/main/background.png" alt="N|Solid"></a></h2>
 <p class="has-line-data" data-line-start="4" data-line-end="6">Bilgi Yarışması oyunu c# ile kodlanmıştır.<br>
 Oyundaki amacımız ekrana gelen soruları en kısa sürede doğru cevaplamak.</p>
 <hr>
